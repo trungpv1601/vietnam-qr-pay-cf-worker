@@ -12,5 +12,10 @@
 		"@cloudflare/vitest-pool-workers": "^0.7.5",
 		"vitest": "~3.0.7",
 		"wrangler": "^4.11.1"
+	},
+	"dependencies": {
+		"hono": "^4.7.7",
+		"qr-image": "^3.2.0",
+		"vietnam-qr-pay": "^1.4.2"
 	}
 }
